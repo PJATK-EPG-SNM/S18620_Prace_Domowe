@@ -11,7 +11,7 @@ public class DissapearingPlatform : MonoBehaviour
     }
 
     // Update is called once per frame
-    float a = 0f;
+    
     void Update()
     {
         
