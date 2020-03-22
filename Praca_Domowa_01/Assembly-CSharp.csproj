@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{33E568EC-C6F3-7696-23FC-D3227181C0EA}</ProjectGuid>
+    <ProjectGuid>{CAC9ADB3-BBD6-1A0E-DF97-909E1FF37C70}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -63,27 +63,27 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Collider.cs" />
-    <Compile Include="Assets\DissapearingPlatform.cs" />
-    <Compile Include="Assets\FollowPlayer.cs" />
-    <Compile Include="Assets\PlatformMov.cs" />
-    <Compile Include="Assets\Player.cs" />
-    <Compile Include="Assets\PlayerChildPlatform.cs" />
-    <Compile Include="Assets\Rotation.cs" />
+    <Compile Include="Assets\Scripts\Collider.cs" />
+    <Compile Include="Assets\Scripts\DissapearingPlatform.cs" />
+    <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+    <Compile Include="Assets\Scripts\PlatformMov.cs" />
+    <Compile Include="Assets\Scripts\Player.cs" />
+    <Compile Include="Assets\Scripts\PlayerChildPlatform.cs" />
+    <Compile Include="Assets\Scripts\Rotation.cs" />
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Potato_Unity/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_01/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.PackageManagerUI.Editor">
-      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Potato_Unity/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_01/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Potato_Unity/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_01/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Potato_Unity/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_01/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.DataPrivacy">
-      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Potato_Unity/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_01/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
       <HintPath>D:/Unity/Unity 2018/2018.4.17f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -287,13 +287,13 @@
       <HintPath>D:/Unity/Unity 2018/2018.4.17f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Editor">
-      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Potato_Unity/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_01/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.StandardEvents">
-      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Potato_Unity/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_01/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Analytics.Tracker">
-      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Potato_Unity/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+      <HintPath>D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_01/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>D:/Unity/Unity 2018/2018.4.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
