@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: D:/Unity Gra/S18620_Prace_Domowe/Praca_Domowa_02/Assets/Scenes/SampleScene.unity
   isLoaded: 1
   isActive: 1
